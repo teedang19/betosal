@@ -1,5 +1,5 @@
 # betosal
-Beto sucks at jiu jitsu 
+Beto is ok at jiu jitsu 
 This is a git lesson
 Sal makes great pasta
 Here are Tam's changes
